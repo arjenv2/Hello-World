@@ -1,2 +1,2 @@
 # Hello-World
-First GidHup project from the beginners tutorial
+First GidHub project from the beginners tutorial
